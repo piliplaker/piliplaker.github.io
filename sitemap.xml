@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.piliplaker.fun/</loc>
+    <lastmod>2020-12-23T14:07:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.piliplaker.fun/about/</loc>
+    <lastmod>2020-12-23T14:07:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.piliplaker.fun/posts/</loc>
+    <lastmod>2020-05-13T23:52:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.piliplaker.fun/posts/my-first-post/</loc>
+    <lastmod>2020-05-13T23:52:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.piliplaker.fun/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.piliplaker.fun/tags/</loc>
+  </url>
+  
+</urlset>
