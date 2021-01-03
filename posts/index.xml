@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on piliplaker 的个人博客</title>
-    <link>http://blog.piliplaker.fun/posts/</link>
+    <link>https://piliplaker.github.io/posts/</link>
     <description>Recent content in Posts on piliplaker 的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 13 May 2020 23:52:50 +0800</lastBuildDate>
     
-	<atom:link href="http://blog.piliplaker.fun/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://piliplaker.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一稿</title>
-      <link>http://blog.piliplaker.fun/posts/my-first-post/</link>
+      <link>https://piliplaker.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 13 May 2020 23:52:50 +0800</pubDate>
       
-      <guid>http://blog.piliplaker.fun/posts/my-first-post/</guid>
+      <guid>https://piliplaker.github.io/posts/my-first-post/</guid>
       <description>这里试试看</description>
     </item>
     
